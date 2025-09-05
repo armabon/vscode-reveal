@@ -160,7 +160,7 @@ export const defaultConfiguration: Configuration = {
   browserPath: null,
   exportHTMLPath: `./export`,
   openFilemanagerAfterHTMLExport: true,
-  logLevel: LogLevel.Error,
+  logLevel: LogLevel.Debug,
 
   enableMenu: true,
   enableChalkboard: true,
